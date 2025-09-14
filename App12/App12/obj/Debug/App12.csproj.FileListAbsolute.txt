@@ -1,0 +1,7 @@
+C:\Users\Рома\source\repos\App12\App12\bin\Debug\App12.exe.config
+C:\Users\Рома\source\repos\App12\App12\bin\Debug\App12.exe
+C:\Users\Рома\source\repos\App12\App12\bin\Debug\App12.pdb
+C:\Users\Рома\source\repos\App12\App12\obj\Debug\App12.csproj.AssemblyReference.cache
+C:\Users\Рома\source\repos\App12\App12\obj\Debug\App12.csproj.CoreCompileInputs.cache
+C:\Users\Рома\source\repos\App12\App12\obj\Debug\App12.exe
+C:\Users\Рома\source\repos\App12\App12\obj\Debug\App12.pdb

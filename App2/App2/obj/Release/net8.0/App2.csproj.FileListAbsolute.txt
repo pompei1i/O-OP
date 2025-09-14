@@ -1,0 +1,14 @@
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\App2.AssemblyInfoInputs.cache
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\App2.AssemblyInfo.cs
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\Рома\source\repos\App2\App2\bin\Release\net8.0\App2.exe
+C:\Users\Рома\source\repos\App2\App2\bin\Release\net8.0\App2.deps.json
+C:\Users\Рома\source\repos\App2\App2\bin\Release\net8.0\App2.runtimeconfig.json
+C:\Users\Рома\source\repos\App2\App2\bin\Release\net8.0\App2.dll
+C:\Users\Рома\source\repos\App2\App2\bin\Release\net8.0\App2.pdb
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\App2.dll
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\refint\App2.dll
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\App2.pdb
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\App2.genruntimeconfig.cache
+C:\Users\Рома\source\repos\App2\App2\obj\Release\net8.0\ref\App2.dll

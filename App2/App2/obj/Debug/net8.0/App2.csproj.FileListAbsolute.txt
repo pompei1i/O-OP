@@ -1,0 +1,4 @@
+C:\Users\Рома\source\repos\App2\App2\obj\Debug\net8.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рома\source\repos\App2\App2\obj\Debug\net8.0\App2.AssemblyInfoInputs.cache
+C:\Users\Рома\source\repos\App2\App2\obj\Debug\net8.0\App2.AssemblyInfo.cs
+C:\Users\Рома\source\repos\App2\App2\obj\Debug\net8.0\App2.csproj.CoreCompileInputs.cache

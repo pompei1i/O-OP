@@ -1,0 +1,7 @@
+C:\Users\Рома\source\repos\App14\App14\bin\Debug\App14.exe.config
+C:\Users\Рома\source\repos\App14\App14\bin\Debug\App14.exe
+C:\Users\Рома\source\repos\App14\App14\bin\Debug\App14.pdb
+C:\Users\Рома\source\repos\App14\App14\obj\Debug\App14.csproj.AssemblyReference.cache
+C:\Users\Рома\source\repos\App14\App14\obj\Debug\App14.csproj.CoreCompileInputs.cache
+C:\Users\Рома\source\repos\App14\App14\obj\Debug\App14.exe
+C:\Users\Рома\source\repos\App14\App14\obj\Debug\App14.pdb

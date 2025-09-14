@@ -1,0 +1,8 @@
+C:\Users\Рома\source\repos\App11\App11\bin\Debug\App11.exe.config
+C:\Users\Рома\source\repos\App11\App11\bin\Debug\App11.exe
+C:\Users\Рома\source\repos\App11\App11\bin\Debug\App11.pdb
+C:\Users\Рома\source\repos\App11\App11\obj\Debug\App11.csproj.AssemblyReference.cache
+C:\Users\Рома\source\repos\App11\App11\obj\Debug\App11.csproj.CoreCompileInputs.cache
+C:\Users\Рома\source\repos\App11\App11\obj\Debug\App11.exe
+C:\Users\Рома\source\repos\App11\App11\obj\Debug\App11.pdb
+C:\Users\Рома\source\repos\App11\App11\obj\Debug\App11.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Рома\source\repos\App5\App5\bin\Debug\App5.exe.config
+C:\Users\Рома\source\repos\App5\App5\bin\Debug\App5.exe
+C:\Users\Рома\source\repos\App5\App5\bin\Debug\App5.pdb
+C:\Users\Рома\source\repos\App5\App5\obj\Debug\App5.csproj.AssemblyReference.cache
+C:\Users\Рома\source\repos\App5\App5\obj\Debug\App5.csproj.CoreCompileInputs.cache
+C:\Users\Рома\source\repos\App5\App5\obj\Debug\App5.exe
+C:\Users\Рома\source\repos\App5\App5\obj\Debug\App5.pdb
